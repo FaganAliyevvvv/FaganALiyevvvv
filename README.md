@@ -1,4 +1,4 @@
-## Hello Everyone! I'm Fagan
+## Hello Everyone! I'm Fagan Aliyev
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
